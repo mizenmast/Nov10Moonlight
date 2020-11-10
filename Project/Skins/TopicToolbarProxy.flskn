@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="MarginTop">5px</Property>
+          <Property
+            Name="MarginBottom">5px</Property>
+          <Property
+            Name="Float">left</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="NextTopic">
+            <Properties>
+              <Property
+                Name="BackgroundImage">url('icon-arrowRight-16x16.png')</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="PreviousTopic">
+            <Properties>
+              <Property
+                Name="BackgroundImage">url('icon-arrowLeft-16x16.png')</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Print">
+            <Properties>
+              <Property
+                Name="BackgroundImage">url('icon-print-16x16-gray.png')</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="icon-arrowRight-16x16.png">H4sIAAAAAAAEAL1VX2wURRi/phEtBikQE5Aom4UIAnP753b3djc92rJX21OuNu3FVqOmc7Ozd5ve7ay72961SmhFYwSa+GLi/xjlwaLhAXmCRIvRqEGDCU/AAw0kxj8NpNCY+GB09np3VLS1iYmbzO7szO/7fb+Z7/tmXunp7lyz+r7VkUhkTaor2Uu/zWG7axV9b7n5B6SfJrfrCT8SuXtD2Boib769MRJZ9YWdGQgG0vt0RIpRaJIsjpaLbiR8WlrLLkRDOGCyOGc7Cfb66c9YxjYTbL+c5tOugfN215iH+8a6M2hsCGkm27qHaSnrlKCIA8iUiwXH18sJtsKr0344zLFMBRIMJdj2cIIZSPcwBvEwI0cVgARJZeJaVFAkPqbsZkRe0Dhe5YQY4AWdV3Q5zlQflnrzTEvvTT5c9UX/Emw+CFyd40qlUrQUixIvxwmaRjlEThQBRQB/1AlgGTj+1hpDEvvIs93AJg4T/sMsGQ4SLFtbQtGt0zp+dZvohnFl6HJClOdqQBPVce6wV6g4NxGHC7iIncCnWKGOdfMkIH6eLEFdn/6LA6oknV5eS7FYR/tBx0iwPNrPjLqY68U+GfYQ7hihMreG5q5ueBgGxMsQUqgFqqemiTGMMDAqs6PfdkxS8h9aZIOTtCXYcB7wChCVDK/qPK+LNIJx2lmApolpW6N1qAYEAQhaRojpvKyLGqjYVKE0a0wYwH8Fm0i3iFeEdM12EeYw5zo5lqnvpG6QAvGoY8oSWzyeMowej1h2gU74vZ17mVSHoQiaQsVHhYqGdFpPOX4AHYRTyQRLR6K2beqWYmqSpSCALLpYMStBoGlZBMyYCk1FNKEqqTX7JEHDYRaE9gsFYRJEOW7JkOVsHClYBaqlqUCAkglUlYpQBdVSpawYUzW5xvaYZ9OahIXFrKEqkzLGYpIoIVUAvGVRMkGKAw1aEGAk46ypYEkS1DDzF5i6bJ+GebRaCX342WqvYDOV/NEhCusiwaJKcE22Omz/w36syHPVvpTHzrJZsgDziRWUoIfbc3SVK0lEbin9PhxZXr0mm2pcFRSgyRYCWSzJAJqyDAQeyVKMBkCz/q5+qVxckXqRluDiGlowQnno5DA9Z7n/sJiVpeb/vhjuVpJxt+cfd9tRXBui53sFXrtY6E/9asIOpfboxfPNuXc0emldSCXbM+rkl+dbHzHam8fnLj9aOHn4pf5mr3Hz2ubvn3lr/LXtzeTVxqP9fdsemJ7/6dt13gRz6MoWaWJwrvDrmRvlXw4fdQcHR17//YdL2U9azhXXT0466KMd3adyU28kds/dGyd39g9tmn3v5ZtPHkzOvt/z3PSHLT05vnPz9Y1X5uNtjZfOHPv6QevHGbnt1NT2+YPXjp3c9tWGE+6nTWePnx2/4925pxvK7bt+3v/4pqde/PiQccTYf+T0zrad9/BNFzvX5cH0nmsffHf1Rtv9M+sa93VcPNDw/Mx6MjUxe/nA1bUXTuzKfH4+/lt4Nac6upPH9w6+8CcFg/039wcAAA==</Resource>
+      <Resource
+        Name="icon-arrowLeft-16x16.png">H4sIAAAAAAAEAL1Va2gcRRzfWm1NTTFQ0FLErhupBjq3O3t3+2our7uYnPTikR42vrCzs3OXNXe7291N7hLwQ2KrqbFfBLWNRavg44NKAwXjC4skQQiKtPjAByXQL36pLRURKY2zl7tLrCYGBBdm5/X7//6/mfn/Z46ke7q2btmxhWGYrcnuRC+tG4Jy8yb633llEdGqzul+yGOYW7YFZQMzeWI7w2yaMTN9fl9qr4btQggZtk5CpYLDBF9za8lBeID4rE5yphXjfvnoU441jRi3P5oSUk6c9JvdIy7ZN9KTwSMDWDW41ha2uaRRggLxEVsq5C1PK8W4Mq9G28Ewz7FliD8Q49qDCbYvlWbjtkvYaEgCGEYUVlZDUIoIYWk3KwpQ5QWFh2EgQE2QtKjMVj6OenONrNabuK/ii/ZiXL/vOxrPF4vFUDEcst0cD1WVcoi8KAKKAN6w5aMSsLzGKkOCeNg1Hd+0LTboI90e9GMcV11CwanRWl5lm+iG8SXk8DAk8FWggWs4Z9DNl50bmCd5UiCW71EsrGGdftu3vX57Fera9F8cUCWp1NpaCoUa2vM7h/y10V5m2CF8L/HsQReTziEqszEwd7S4S5BvuxnbzlcPKl3VxMbjwcEo7L37Tcuwi17TChuSoCXGBfNAkIAoZQRFEwRNpCco08YSNGUbZna4BlUBhACqGRjWhIgWpVBlGUqjxkA++lewgbWs7RYQXbNZQDnCO1aOY2s7qcXtvO1Sx5QlvHI8GY+nXTtr5umE19vVwSY74xJUJSo+BMsaUiktaXk+sjBJJmIcHQmZpkG9izJSVQWosqGCiBzBQEVZqk1Xo7oQxmEkKFX7hI0HgygI7JcSwrAx5ViWYaiGEZGiKsgaiLLpEQRUKESBYOgS0UWiihBX2R5wTZqTKL+SNVBlUEZRUAiE0ABYJxBgFFGArsgygFJWkFUoyUYUBZG/xNRtevSYhyuZsI8crLTyJluOHw3hIC9iHC4frsFVhs1/2I91ea7YF/uJtWaULME8O+sXkUvac3SV6wlEfjX9HhpaW72k4Igo0gsCE0kGAo5AoOhGBEARhWVRkMOKQv6mfrVYXJd6kabgyhxaMsL9yMoRes/y/2Ex6wvN/30x/HKQ8dfHH3/dVVwdovd7GV59WGin9jQRi1K79OE5MPu8Qh+tH5OJ9oxy9OtzU/dvbG+Yu3z+eFvD6am6uvHf65OmeVfHw8l0w7u7wTtnj7U8ebZuTEcv7ZJeHGoZvbBh7IXDb59cyIec0PzozNzoqF0cunYFnkpOvnnbkTcOf7h4Q/qViS8XDvb90LXtsY+fmX15fqJj857pz5q+mbhjhgHPhT85+tZ55vvtCzc9Ms0/sev9jSdee/Vn+df0RH0THvup4dTkufnv2qLi6bFvjz3l7YVtzzY2nzx0t3NJbT3029PKmR0XvzpT//gHVz+/+DozPXfng5fGRy58ceueqenZOunyozd2X1vM/bFpfPM907erV3cGr3OysyfxXseBsT8BAn4Ah/oHAAA=</Resource>
+      <Resource
+        Name="icon-print-16x16-gray.png">H4sIAAAAAAAEAAGYAWf+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABX0lEQVQ4jaXTP0uWcRTG8Y+ZpWEGRQqKOGggBk4ORbiEitAbcBJFl9DV0VdgboKTYOhLcHAwGnoDFShChLiImogEaf5B5cR55OZBEfKM53ed732dP7e7RsXA4HAJ0YB51OME98rY53iAXQxhJ5L3C4IA9OMz9gNeBrjA09Q0XAf4g0/ouaWrldQqAT7gRVp/hVUc3eCgBh1YzFZ+BGAMM/n1j2mvvP/iHHZyFs0YD8A6Jv5zGT0BOMRLvEcrnl9jv9jGL/zEbNQGoDJtbWc7c+nqb6GVsF6NdoxgMmsqA1CLPUzjDUbxGi0JkcWbOfCm1MagawPQhq94hAM8wTt04ncC6vAda3iGb9l6WwB680CioA8P8xIDdpqAg8zF2zEWErgfgC8pikR37ncJjTm0iBjqVr6F9biDjXgoXuLjdBP3EFbPyjYQ2im8Te1VshQx1eVcY9cNa6xKzb//4O6BS7SwT9Rgq26QAAAAAElFTkSuQmCCCkH0JJgBAAA=</Resource>
+    </Resources>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|Print|NextTopic" />
+  <Strings />
+</CatapultSkin>

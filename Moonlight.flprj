@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.flmsp" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" DeleteUnreferenced="false" AutoSync="false" LastImport="2019-02-08T10:54:02.4479188-08:00" SourceControlProviderType="Git" ProjectGuid="5ed9e3ce-abb3-4ed8-aa06-1f8d1fbfa6ec">
+    <Files>
+        <Url Source="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Sunset.flprj" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Sunset.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../Sunset/Content/Home.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/Home.htm" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+        <Url Source="../../../Sunsetog/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../../../Sunset/Content/Sample Landing Topic.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/Sample Landing Topic.htm" />
+        <Url Source="../../../Sunset/Content/A_Introduction Topics/Basic Steps.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/A_Introduction Topics/Basic Steps.htm" />
+        <Url Source="../../../Sunset/Content/A_Introduction Topics/Getting Started.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/A_Introduction Topics/Getting Started.htm" />
+        <Url Source="../../../Sunset/Content/A_Introduction Topics/Whats New.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/A_Introduction Topics/Whats New.htm" />
+        <Url Source="../../../Sunset/Content/B_Feature Topics/Feature1.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/B_Feature Topics/Feature1.htm" />
+        <Url Source="../../../Sunset/Content/B_Feature Topics/Feature2.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/B_Feature Topics/Feature2.htm" />
+        <Url Source="../../../Sunset/Content/B_Feature Topics/Feature3.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/B_Feature Topics/Feature3.htm" />
+        <Url Source="../../../Sunset/Content/B_Feature Topics/Features.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/B_Feature Topics/Features.htm" />
+        <Url Source="../../../Sunset/Content/C_Procedure Topics/Procedure1.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/C_Procedure Topics/Procedure1.htm" />
+        <Url Source="../../../Sunset/Content/C_Procedure Topics/Procedure2.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/C_Procedure Topics/Procedure2.htm" />
+        <Url Source="../../../Sunset/Content/C_Procedure Topics/Procedure3.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/C_Procedure Topics/Procedure3.htm" />
+        <Url Source="../../../Sunset/Content/C_Procedure Topics/Procedures.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/C_Procedure Topics/Procedures.htm" />
+        <Url Source="../../../Sunset/Content/D_More Information/Company Information.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/D_More Information/Company Information.htm" />
+        <Url Source="../../../Sunset/Content/D_More Information/FAQs.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/D_More Information/FAQs.htm" />
+        <Url Source="../../../Sunset/Content/D_More Information/PDF Downloads.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/D_More Information/PDF Downloads.htm" />
+        <Url Source="../../../Sunset/Content/D_More Information/Tips.htm" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunset/Content/D_More Information/Tips.htm" />
+        <Url Source="../../../Sunsetog/Content/Resources/MasterPages/HomePage.flmsp" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Content/Resources/MasterPages/HomePage.flmsp" />
+        <Url Source="../../../Sunsetog/Project/VariableSets/General.flvar" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Project/VariableSets/General.flvar" />
+        <Url Source="../../../Sunsetog/Project/Skins/SearchHome.flskn" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Project/Skins/SearchHome.flskn" />
+        <Url Source="../../../Sunsetog/Project/Skins/SideMenu.flskn" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Project/Skins/SideMenu.flskn" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="../../../../Content/Home.htm" TimeStamp="2/7/2019 11:35:37 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+        <Url Source="../../Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" TimeStamp="2/8/2019 10:50:10 AM" />
+    </GeneratedFiles>
+</CatapultProject>
